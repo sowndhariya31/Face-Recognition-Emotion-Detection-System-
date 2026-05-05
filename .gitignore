@@ -1,0 +1,15 @@
+# Environments
+deepface_env/
+deepface39/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Output files
+output/
+output.jpg
+cd
+
+# Test images
+test/
